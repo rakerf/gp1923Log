@@ -9,8 +9,8 @@
 <body>
 	测试页面2
 	<br/>
-	<label>orderid: 123460</label><br>
-	<label>orderName: 测试订单123460</label><br/>
+	<label>orderid: 1234600</label><br>
+	<label>orderName: 测试订单1234600</label><br/>
 	<label>currencyAmount: 800</label><br/>
 	<label>currencyType: $</label><br/>
 	<label>paymentType: alipay</label><br/>
